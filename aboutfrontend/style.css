@@ -1,0 +1,20 @@
+html{
+    height: 160%;
+}
+
+body{
+    font-family: helvetica;
+    background-image: linear-gradient(#b4df5b, #b8c6df);
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+}
+
+article{
+    padding: 50px;
+    margin: 20px
+        
+    
+}
